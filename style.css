@@ -1,0 +1,17 @@
+*{
+    margin: 0 auto;
+
+}
+
+div {
+    border-style: solid;
+    width: 650px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.boton {
+ display: flex;
+ 
+
+}
